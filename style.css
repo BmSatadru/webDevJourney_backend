@@ -1,0 +1,27 @@
+body{
+    margin:0%;
+    padding: 0%;
+}
+
+div{
+    /* border-width: 1px;
+    border-style: groove;
+    border-color: black; */
+    border: 1px solid black /* Same sqeuence has to be followes for this line*/;
+}
+#Top{
+    width: 1000px;
+    margin: auto;
+}
+img{
+    width: 977px;
+}
+p{
+    text-align: justify;  /* To get the lines in the paragraphs in sync*/
+}
+#Header,#Content{
+    padding: 10px;
+}
+#Footer{
+    text-align: center;
+}
