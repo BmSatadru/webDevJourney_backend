@@ -12,6 +12,10 @@ div{
 #Top{
     width: 1000px;
     margin: auto;
+    background-color: rgb(176, 222, 191);
+}
+#Header,#Footer{
+    background-color: darkcyan;
 }
 img{
     width: 977px;
@@ -25,3 +29,7 @@ p{
 #Footer{
     text-align: center;
 }
+.Coloured{
+    color: rgb(1, 4, 27);
+}
+
